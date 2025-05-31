@@ -2,10 +2,10 @@
 
 This is a simple machine learning project to classify **Iris flower species** — Setosa, Versicolor, and Virginica — using **Logistic Regression**.
 
+#### -> quiz-week5-datascience
 ---
 
 ## 🚀 Project Steps
-
 1. **Load Data** — Using Scikit-learn's built-in Iris dataset  
 2. **Explore** — Visualize with Seaborn pair plots  
 3. **Prepare** — Scale features and split data  
